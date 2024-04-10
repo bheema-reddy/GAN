@@ -1,11 +1,11 @@
 <p align="center"><img src="assets/logo.png" width="480"\></p>
 
-**This repository has gone stale as I unfortunately do not have the time to maintain it anymore. If you would like to continue the development of it as a collaborator send me an email at eriklindernoren@gmail.com.**
+**This repository has gone stale as I unfortunately do not have the time to maintain it anymore. If you would like to continue the development of it as a collaborator send me an email at bheema.sabilla@gmail.com.**
 
 ## PyTorch-GAN
 Collection of PyTorch implementations of Generative Adversarial Network varieties presented in research papers. Model architectures will not always mirror the ones proposed in the papers, but I have chosen to focus on getting the core ideas covered instead of getting every layer configuration right. Contributions and suggestions of GANs to implement are very welcomed.
 
-<b>See also:</b> [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+<b>See also:</b> [Keras-GAN](https://github.com/bheema-reddy/GAN/edit/main/README.md)
 
 ## Table of Contents
   * [Installation](#installation)
@@ -44,7 +44,7 @@ Collection of PyTorch implementations of Generative Adversarial Network varietie
     + [Wasserstein GAN DIV](#wasserstein-gan-div)
 
 ## Installation
-    $ git clone https://github.com/eriklindernoren/PyTorch-GAN
+    $ git clone url
     $ cd PyTorch-GAN/
     $ sudo pip3 install -r requirements.txt
 
